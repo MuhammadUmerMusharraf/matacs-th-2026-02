@@ -2,7 +2,7 @@
 
 - **Name:** Muhammad Umer Musharraf
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:** [FILL IN HONESTLY, e.g. "about 2 hours including reading and drawing"]
+- **Time actually spent:** about 1 hours including reading and drawing
 
 ## Files
 - [WRITEUP.md](WRITEUP.md): answers to the five questions
@@ -11,4 +11,5 @@
 - [diagram/process-flow.png](diagram/process-flow.png): flow from upload to ranked output
 
 ## How I used AI tools
-[EDIT THIS TO MATCH WHAT REALLY HAPPENED] I used Claude to help me understand the brief and to draft the design, prompt and files, then I reviewed and edited them myself. One place I disagreed with / corrected the AI: [WRITE YOUR OWN REAL EXAMPLE, e.g. a score formula, a flag decision, or a wording you changed, and why].
+I used Claude to help me understand the brief and to draft the design, prompt and files, then I reviewed and edited them myself. One place I disagreed with / corrected the AI: I corrected the AI's weight calculation formula for warranties to make sure panel and workmanship were split 50/50 instead of weighing them unequally.
+
